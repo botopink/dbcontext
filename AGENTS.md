@@ -1,5 +1,7 @@
 # dbcontext
 
+`decisions-taken.md` is generated — from the meta repository's `specs/<milestone>/decisions-taken.md` by `scripts/decisions-split.py`; edit it there, never here.
+
 > Repository: `botopink/dbcontext` (`git@github.com:botopink/dbcontext.git`) · in the meta checkout: `repository/dbcontext/`
 
 The persistence layer over erika (decision 398) — botopink's JPA: `#[entity(…)]` (it
